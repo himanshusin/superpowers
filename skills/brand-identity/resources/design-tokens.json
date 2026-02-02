@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "brand_name": "Anthropic",
+    "description": "Core design tokens extracted from brand showcase."
+  },
+  "colors": {
+    "primary": {
+      "DEFAULT": "#141413",
+      "hover": "#333333",
+      "foreground": "#faf9f5"
+    },
+    "secondary": {
+      "DEFAULT": "#e8e6dc",
+      "foreground": "#141413"
+    },
+    "background": "#faf9f5",
+    "foreground": "#141413",
+    "muted": "#b0aea5",
+    "accent": "#e8e6dc",
+    "destructive": "#d97757",
+    "success": "#788c5d",
+    "brand": {
+      "orange": "#d97757",
+      "blue": "#6a9bcc",
+      "green": "#788c5d",
+      "sand": "#faf9f5",
+      "dark": "#141413"
+    }
+  },
+  "typography": {
+    "font_family_headings": [
+      "Poppins",
+      "Arial",
+      "sans-serif"
+    ],
+    "font_family_body": [
+      "Georgia",
+      "Lora",
+      "serif"
+    ],
+    "font_weight_bold": "700",
+    "font_weight_normal": "400"
+  },
+  "ui": {
+    "border_radius_default": "1rem",
+    "border_radius_large": "1.5rem",
+    "border_radius_small": "0.5rem",
+    "spacing_base_unit": "4px"
+  }
+}
